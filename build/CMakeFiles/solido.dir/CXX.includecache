@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/git/solidos/main.cpp
+GL/glu.h
+-
+GL/glut.h
+-
+iostream
+-
+math.h
+-
+stdlib.h
+-
+

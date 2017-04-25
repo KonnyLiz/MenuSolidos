@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/solido.dir/main.cpp.o  -o solido -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
